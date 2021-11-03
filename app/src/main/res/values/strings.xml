@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Escaner Cedulas</string>
+    <string name="panel_principal">Panel Principal</string>
+    <string name="save_data">Guardar Datos</string>
+    <string name="permission_camera_rationale">Se necesita acceso a la camara para la deteccion</string>
+    <string name="ok">OK</string>
+    <string name="low_storage_error">Poco espacio de almacenamiento</string>
+    <string name="no_camera_permission">No se activo permiso para camara</string>
+</resources>

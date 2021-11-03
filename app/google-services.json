@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "656800436572",
+    "firebase_url": "https://allinonewp.firebaseio.com",
+    "project_id": "allinonewp",
+    "storage_bucket": "allinonewp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656800436572:android:a897fb76bd43a7ae67f199",
+        "android_client_info": {
+          "package_name": "co.martketing.escanercedulas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656800436572-4qagd0h2q10kung7lmct908c53v0gm2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFhTfEz7ctM2KHU7UF2ojjxCh8pylZro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656800436572-4qagd0h2q10kung7lmct908c53v0gm2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656800436572:android:ac415219870a3db467f199",
+        "android_client_info": {
+          "package_name": "com.allinonewhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656800436572-4qagd0h2q10kung7lmct908c53v0gm2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFhTfEz7ctM2KHU7UF2ojjxCh8pylZro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656800436572-4qagd0h2q10kung7lmct908c53v0gm2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656800436572:android:f140804bb06ed06567f199",
+        "android_client_info": {
+          "package_name": "com.allinonewp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656800436572-a9c8ffhhktrp7vf2bofn2t3hq62hksuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allinonewp",
+            "certificate_hash": "5007f447143b3f3718e3a342b6f9d786abe33c57"
+          }
+        },
+        {
+          "client_id": "656800436572-qqbdbho8d2vaulcmssbcr99uj36an1qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allinonewp",
+            "certificate_hash": "7dd399117719d21f7f030122469c11b029517528"
+          }
+        },
+        {
+          "client_id": "656800436572-4qagd0h2q10kung7lmct908c53v0gm2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFhTfEz7ctM2KHU7UF2ojjxCh8pylZro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656800436572-4qagd0h2q10kung7lmct908c53v0gm2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656800436572:android:5c2343c3a84fac3967f199",
+        "android_client_info": {
+          "package_name": "com.martketing.motionwasticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656800436572-4qagd0h2q10kung7lmct908c53v0gm2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFhTfEz7ctM2KHU7UF2ojjxCh8pylZro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656800436572-4qagd0h2q10kung7lmct908c53v0gm2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

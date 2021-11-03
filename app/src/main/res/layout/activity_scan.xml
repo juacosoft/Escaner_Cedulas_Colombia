@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ScanActivity">
+<com.wonderkiln.camerakit.CameraView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:ckJpegQuality="100"
+    android:id="@+id/cameraview">
+</com.wonderkiln.camerakit.CameraView>
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="25dp"
+        android:id="@+id/btnBack"
+        android:src="@drawable/ic_baseline_arrow_back_ios_24"/>
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="20dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/swFlash"
+        android:src="@drawable/flash_off"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_detect"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="20dp"
+        android:background="@drawable/btn_rounded_accent"
+        android:layout_alignParentEnd="true"
+        android:text="Captura"/>
+    <LinearLayout
+        android:layout_width="470dp"
+        android:layout_height="100dp"
+        android:layout_margin="40dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/bg_rectangle"
+        />
+</RelativeLayout>
