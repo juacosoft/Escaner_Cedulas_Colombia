@@ -3,10 +3,9 @@ Esta app es un escaner en formato pdf417 para cedulas Colombianas, diseñada par
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/hR0Uhb0QG5JwLGYTTDfhAYKQOmWyfoE5M7P-4u3egJckH8c5SFLiEHC6JGra_E0vU1Q=w1517-h734-rw" width="150" title="hover text">
   <img src="https://play-lh.googleusercontent.com/YWuGB59xGOGRI21YIr9XrXDN6FhrRHgi3LNo6u5ViVKvhVkdccT_mJgEG4WBVV6wdwU=w1517-h734-rw" width="150" alt="accessibility text">
+  <img src="https://play-lh.googleusercontent.com/3ExtOduLL0mDyuwM7t3EfokMq3b9edEy4r7QVMnJtoodcrLbH3JX_5ikO9a-TYyY8KxB=w1517-h734-rw" width="150" alt="accessibility text">
+  <img src="https://play-lh.googleusercontent.com/i27jF_azVuR3pNyuVHKADM7Mz_HmouPLR6G6tsVHaf0ZiRvV7p-Fzo0NyQgJ03n3uw=w1517-h734-rw" width="150" alt="accessibility text">
 </p>
-#![alt text](https://play-lh.googleusercontent.com/hR0Uhb0QG5JwLGYTTDfhAYKQOmWyfoE5M7P-4u3egJckH8c5SFLiEHC6JGra_E0vU1Q=w1517-h734-rw)
-#![alt text](https://play-lh.googleusercontent.com/YWuGB59xGOGRI21YIr9XrXDN6FhrRHgi3LNo6u5ViVKvhVkdccT_mJgEG4WBVV6wdwU=w1517-h734-rw)
-
 
 El archivo queda guardado en el almacenamiento interno del telefóno con el nombre de PERSONS.XLS
 
