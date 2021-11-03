@@ -2,6 +2,8 @@ Esta app es un escaner en formato pdf417 para cedulas Colombianas, diseñada par
 
 
 ![alt text](https://play-lh.googleusercontent.com/hR0Uhb0QG5JwLGYTTDfhAYKQOmWyfoE5M7P-4u3egJckH8c5SFLiEHC6JGra_E0vU1Q=w1517-h734-rw)
+![alt text](https://play-lh.googleusercontent.com/YWuGB59xGOGRI21YIr9XrXDN6FhrRHgi3LNo6u5ViVKvhVkdccT_mJgEG4WBVV6wdwU=w1517-h734-rw)
+
 
 El archivo queda guardado en el almacenamiento interno del telefóno con el nombre de PERSONS.XLS
 
